@@ -1,0 +1,23 @@
+{
+  "parsed_movies": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "missing_category_pages": [],
+  "movie_cards_in_index_and_categories": 4028,
+  "baidu_script_in_index": true,
+  "player_hls_in_first_detail": true,
+  "logo_replaced": true,
+  "all_detail_pages_match_movies": true,
+  "category_coverage": {
+    "最新精选": 200,
+    "热门片单": 200,
+    "高分推荐": 200,
+    "剧情合集": 200,
+    "悬疑探索": 200,
+    "喜剧治愈": 200,
+    "动作冒险": 200,
+    "科幻奇幻": 200,
+    "爱情家庭": 200,
+    "全球影库": 200
+  }
+}
